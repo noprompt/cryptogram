@@ -1,3 +1,5 @@
+**Note**: This project has officially moved [here](https://github.com/clojurewerkz/persephone).
+
 # Cryptogram
 
 Cryptogram is a DSL for authoring Cypher queries in Clojure.
